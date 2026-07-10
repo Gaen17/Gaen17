@@ -61,9 +61,13 @@ user = {
 ## ▪ PERFORMANCE_METRICS
 
 <p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Gaen17&show_icons=true&bg_color=0d0d0d&title_color=ff0000&text_color=ffffff&icon_color=ff0000&border_color=1a1a1a&include_all_commits=true&count_private=true"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Gaen17&theme=github_dark" height="170em"/>
   &nbsp;
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gaen17&layout=compact&bg_color=0d0d0d&title_color=ff0000&text_color=ffffff&border_color=1a1a1a&langs_count=6"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Gaen17&theme=github_dark" height="170em"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Gaen17&theme=github_dark" width="100%"/>
 </p>
 
 <p align="center">
