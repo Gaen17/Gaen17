@@ -93,6 +93,10 @@ user = {
     <img src="https://img.shields.io/badge/▪_LINKEDIN-ernesto--veramendi-ffffff?style=for-the-badge&logo=linkedin&logoColor=ffffff&labelColor=0d0d0d"/>
   </a>
   &nbsp;&nbsp;
+  <a href="https://portafolio-teal-pi.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/▪_PORTFOLIO-Vercel-ff0000?style=for-the-badge&logo=vercel&logoColor=ffffff&labelColor=0d0d0d"/>
+  </a>
+  &nbsp;&nbsp;
   <a href="https://github.com/Gaen17" target="_blank">
     <img src="https://img.shields.io/badge/▪_GITHUB-Gaen17-ffffff?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=0d0d0d"/>
   </a>
