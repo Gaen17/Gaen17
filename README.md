@@ -18,8 +18,10 @@ Diseño y construyo aplicaciones web y móviles, desde la API hasta el último p
 ### Con qué trabajo
 
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=ts,js,react,nodejs,vite,java,kotlin,androidstudio,py,php,mysql,html,css,git,vercel&perline=8&theme=light">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nodejs,vite,java,kotlin,androidstudio,py,php,mysql,html,css,git,vercel&perline=8&theme=dark" alt="TypeScript, JavaScript, React, Node.js, Vite, Java, Kotlin, Android Studio, Python, PHP, MySQL, HTML, CSS, Git, Vercel">
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=ts%2Cjs%2Creact%2Cnodejs%2Cvite%2Cjava%2Ckotlin%2Candroidstudio%2Cpy%2Cphp%2Cmysql%2Chtml%2Ccss%2Cgit%2Cvercel&perline=8&theme=light">
+  <img src="https://skillicons.dev/icons?i=ts%2Cjs%2Creact%2Cnodejs%2Cvite%2Cjava%2Ckotlin%2Candroidstudio%2Cpy%2Cphp%2Cmysql%2Chtml%2Ccss%2Cgit%2Cvercel&perline=8&theme=dark" alt="TypeScript, JavaScript, React, Node.js, Vite, Java, Kotlin, Android Studio, Python, PHP, MySQL, HTML, CSS, Git, Vercel">
 </picture>
+
+**Herramientas de IA:** Claude Code, OpenCode y Antigravity CLI.
 
 ¿Tienes un proyecto o una vacante? Escríbeme desde el [formulario de contacto del portafolio](https://portafolio-teal-pi.vercel.app/#contacto).
